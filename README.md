@@ -29,3 +29,4 @@ CMX Mobility Services API | Cisco CommunitiesBrowse all blog posts in the develo
 Cisco
 Cisco CMX Configuration Guide, Release 10.3 and LaterCisco CMX Configuration Guide, Release 10.3 and Later
 ​
+https://developer.cisco.com/site/cmx-mobility-services/
